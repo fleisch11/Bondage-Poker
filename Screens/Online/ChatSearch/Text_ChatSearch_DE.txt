@@ -1,0 +1,26 @@
+﻿No chat room found.  You can create a new one.
+Kein Chatraum gefunden. Du kannst einen neuen erstellen.
+Search for a room by name:
+Raum per Name suchen:
+Search for a room
+Raum suchen
+Create your room
+Raum erstellen
+Friends in room:
+Freunde im Raum:
+This room is already full
+Dieser Raum ist bereits voll
+This room is locked
+Dieser Raum ist verschlossen
+You're banned from this room
+Du wurdest aus diesem Raum verbannt
+You've been kicked out
+Du wurdest rausgeworfen
+Room doesn't exist anymore
+Raum existiert nicht mehr
+Account Error
+Account-Fehler
+Invalid Room Data
+Ungültige Raumdaten
+Entering the room...
+Raum wird betreten...

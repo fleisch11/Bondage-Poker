@@ -1,0 +1,223 @@
+###_NPC
+Silence is the highest form of truth!
+Schweigen ist die höchste Form der Wahrheit!
+(She gives a curious look at the gag but doesn't resist as you silence her.)
+(Sie betrachtet den Knebel verwundert, wehrt sich aber nicht, als du sie zum Schweigen bringst.)
+(You remove her gag slowly.)  I am the supervisor here.
+(Du nimmst den Knebel langsam ab.) Ich bin hier die Aufseherin.
+(She nods and turns around as you restrain her arms securely.)  It will be a kinky work day.
+(Sie nickt und dreht sich um, damit du ihre Arme festmachen kannst.) Das wird ein lustiger Arbeitstag.
+(You free her arms and she stretches.)  Thanks head maid DialogPlayerName, this will make my work easier.
+(Du befreist ihre Arme und sie streckt sich.) Danke, Hausdame DialogPlayerName, das erleichtert meine Arbeit.
+(She submits as you restrain her legs.)  How am I supposed to work now?
+(Sie lässt sich von dir die Beine fesseln.) Wie soll ich denn jetzt zur Arbeit kommen?
+(You release her legs while she shakes her butt.)  Thanks Miss.
+(Du befreist ihre Beine und sie wackelt mit dem Po.) Danke, Miss.
+(You restrain her feet securely.)  I can not get on like this.
+(Du bindest ihre Füße fest zusammen.) So komme ich nicht weiter.
+(You release her feet.)  Much better.
+(Du befreist ihre Füße.) Schon besser.
+(You strap the collar on her while she blushes.)  Someday I'll find a wonderful Mistress like you Miss.
+(Du legst ihr das Halsband um und sie wird rot.) Eines Tages finde ich eine so wundervolle Herrin wie Sie, Miss.
+(You remove the collar around her neck.)  Freedom is overrated.
+(Du nimmst ihr das Halsband ab.) Freiheit wird überbewertet.
+(She frowns as you lock the device on her.)  I hope you will unlock it after my shift Miss.
+(Sie runzelt die Stirn, als du das Teil verschließt.) Hoffentlich nehmen Sie das nach meiner Schicht wieder ab, Miss.
+(She nods happily as you unlock the device.)  Yes!  That's very nice of you Miss.
+(Sie nickt fröhlich, als du das Teil aufschließt.) Ja! Das ist sehr nett von Ihnen, Miss.
+(You strap the device on her head as she mumbles.)  It will be a kinky work day it seems.
+(Du schnallst ihr das Ding um den Kopf und sie murmelt.) Das wird wohl ein lustiger Arbeitstag.
+(You remove the device and she nods slowly.)  You're the best head maid DialogPlayerName.
+(Du nimmst das Ding ab und sie nickt langsam.) Sie sind die Beste, Hausdame DialogPlayerName.
+(She jumps from the searing pain on her breast.)  Ouch!  Miss Head Maid!
+(Sie zuckt vom schneidenden Schmerz auf ihrer Brust zusammen.) Autsch! Frau Hausdame!
+(You whip her breast with the leather crop as she whimpers and bows her head.)
+(Du peitschst ihr mit der Ledergerte auf die Brust und sie lässt wimmernd den Kopf hängen.)
+(You whip her butt hard as she sighs.)  I promise I'll work harder Miss Head Maid.
+(Du peitschst ihr kräftig auf den Hintern und sie seufzt.) Ich verspreche, härter zu arbeiten, Frau Hausdame.
+(She grumbles as you strike her butt with the crop.)  A maids work isn't easy.
+(Sie grummelt, als du ihren Hintern mit der Gerte triffst.) Ein Hausmädchen hat es nicht leicht.
+(You restrain her legs with the long hemp rope and suspend her by the feet from the ceiling.)  Well done.
+(Du fesselst ihre Beine mit dem langen Hanfseil und lässt sie an den Füßen von der Decke baumeln.) Gute Arbeit.
+(You untie the hemp rope from the ceiling and slowly let her down.)  Always be careful when you suspend someone.
+(Du löst das Hanfseil von der Decke und lässt sie langsam herab.) Sei immer vorsichtig, wenn du jemanden aufhängst.
+(A maid stands around and greets you.) This room is under construction. Please leave.
+(Ein Hausmädchen steht herum und begrüßt dich.) Dieser Raum ist noch nicht vollendet. Bitte verlasse ihn.
+###_PLAYER
+What's going on here?
+Was geht hier vor sich?
+###_NPC
+I'm looking for someone in handcuffs to help me test something.
+Ich suche nach Leuten, die Handschellen tragen, um etwas zu testen.
+###_PLAYER
+What kind of test is it?
+Was ist es für ein Test?
+###_NPC
+(She shoves you into a cell and closes the door.)
+(Sie schubst dich in die Zelle und verriegelt die Tür.)
+###_PLAYER
+I heard something about a gang of bad girls?
+Ich habe etwas von einer Bande böser Mädchen gehört?
+Okay. Bye! (Leave her.)
+Okay. Tschüss! (Dialog beenden.)
+###_NPC
+Pleased to meet you. I'm DialogCharacterName, I work here as a maid.
+Schön dich kennenzulernen. Ich bin DialogCharacterName und arbeite hier als Hausmädchen.
+###_PLAYER
+(Look surprised.)
+(Überrascht gucken.)
+###_NPC
+It's good that you're under lock and key!
+Gut, dass du hinter Schloss und Riegel steckst!
+###_PLAYER
+Please, can you let me out?
+Bitte, kannst du mich rauslassen?
+(Stay silent and wait.)
+(Schweigen und warten.)
+(Shake the bars.)
+(An den Gitterstäben rütteln.)
+(Try to free yourself.)
+(Versuchen, dich zu befreien.)
+(Whimper and make pleading eyes.)
+(Wimmern und flehende Augen machen.)
+(Leave her.)
+(Dialog beenden.)
+(Watch her leave.)
+(Ihr hinterherschauen.)
+Thanks, that was a nice experience.
+Danke, das war eine nette Erfahrung.
+###_NPC
+You're welcome.
+Keine Ursache.
+###_PLAYER
+Finally I am out of that hole.
+Endlich bin ich raus aus diesem Loch.
+###_NPC
+All ends well
+Ende gut, alles gut.
+###_PLAYER
+(Continues)
+(Weiter)
+###_NPC
+The gang includes the troublemakers, all of whom should be put in a prison cell.
+Zur Bande gehören die Problemmacherinnen, die alle in eine Gefängniszelle sollten.
+The bad girls always steal the special Dices in the Gambling hall for fun.
+Die bösen Mädchen klauen aus Spaß immer die Spezialwürfel in der Spielhalle.
+Therefore the guards must check them regularly.
+Daher müssen die Wärter sie regelmäßig überprüfen.
+If they are caught, they are sent to prison for punishment.
+Wenn diese erwischt werden, kommen sie zur Strafe in das Gefängnis.
+You're not one of those bad girls, are you?
+Du bist doch nicht etwa aus so ein böses Mädchen?
+###_PLAYER
+I would never do that.
+Ich würde das doch niemals machen.
+On the contrary, I want to help catch them.
+Im Gegenteil, ich möchte Helfen sie einzufangen.
+Sure, that sounds like fun.
+Sicher doch, das hört sich lustig an.
+###_NPC
+You'd better not.
+Das will ich dir auch geraten haben.
+(This feature will be available in a future version.)
+(Diese Option wird in einer zukünftigen Version verfügbar sein.)
+I'll be keeping an eye on you from now on. Just don't get caught.
+Dann habe ich dich ab jetzt im Auge, lass dich bloß nicht erwischen.
+###_PLAYER
+I don't want to be a part of the Bad Girls Gang anymore.
+Ich will nicht mehr zu der Bande böser Mädchen gehören.
+###_NPC
+Well, if you promise to be good, we'll leave you alone.
+Gut wenn du versprichst brav zu sein, lassen wir dich in Ruhe.
+###_PLAYER
+I swear it.
+Ich schwöre es.
+Ha ha, I'm just kidding.
+Haha, das war nur Spaß.
+###_NPC
+Then keep it.
+Dann halte dich auch daran.
+You'll see what you get out of it.
+Du wirst schon sehen was du davon hast.
+###_PLAYER
+Hey! That really hurts!
+Hey! Das tut wirklich weh!
+###_NPC
+You don't deserve any better!
+Etwas Besseres hast du nicht verdient!
+###_PLAYER
+Miss!  Is that proper?
+Miss! Ist das anständig?
+###_NPC
+You have to learn modesty.
+Dir sollte man etwas Anstand beibringen.
+###_PLAYER
+Thanks! You're really good to me.
+Danke! Du bist echt gut zu mir.
+###_NPC
+I'll gladly do it again.
+Das mache ich gerne nochmal.
+###_PLAYER
+(Whimper from the pain.)
+(Vor Schmerz wimmern.)
+###_NPC
+That's right my prisoner.
+Ganz recht, meine Gefangene.
+###_PLAYER
+(Thrash in your bondage.)
+(Dich in deinen Fesseln winden.)
+###_NPC
+You'll never escape!
+Du wirst niemals entkommen!
+###_PLAYER
+(Stay silent and cold.)
+(Still und kühl bleiben.)
+###_NPC
+(She turns away.)
+(Sie dreht sich weg.)
+I don't want to hear it. (She gags you.)
+Das will ich gar nicht hören. (Sie knebelt dich.)
+Just be quiet! (She gags you.)
+Sei einfach still! (Sie knebelt dich.)
+Prisoners like you shouldn't speak. (She gags you.)
+Gefangene wie du sollten nicht reden. (Sie knebelt dich.)
+I won't let you out. You're a bad girl!
+Ich lasse dich nicht raus. Du bist ein böses Mädchen!
+Alright, you can come out. Here are your clothes.
+Also gut, du darfst raus. Hier hast du deine Sachen wieder.
+I won't let you out, but you can have your clothes back. 
+Ich lasse dich nicht raus, aber du kannst deine Kleidung wiederhaben.
+Shut up! You're staying that way.
+Halt die Klappe! Du bleibst, wie du bist.
+Prisoners must wear handcuffs and should not have keys. I'll strip search you, and then I'll leave.
+Gefangene müssen Handschellen tragen und dürfen keine Schlüssel haben. Ich werde dich durchsuchen, bevor ich gehe.
+I'll give you some time to think about how bad you've been. I'll come back later.
+Ich gebe dir etwas Zeit, darüber nachzudenken, wie ungezogen du warst. Ich komme später wieder.
+Poor girl, there are too many restraints. I'll take some off of you.
+Armes Mädchen, das sind viel zu viele Fesseln. Ich nehme dir ein paar davon ab.
+Prisoners must wear handcuffs.
+Gefangene müssen Handschellen tragen.
+You're all good, but I'm going to take your keys and leave. 
+Alles in Ordnung, aber ich nehme dir deine Schlüssel ab, bevor ich gehe.
+Chill out. I'm going to get a coffee in the maid quarters.
+Ganz ruhig. Ich hole mir einen Kaffee in der Dienerkammer.
+(She whips you.) You need to be punished!
+(Sie peitscht dich aus.) Du musst bestraft werden!
+(She spanks your butt.) This should teach you some discipline, prisoner!
+(Sie haut dir auf den Hintern.) Das sollte dir Manieren beibringen, Gefangene!
+(She spanks your breasts.) Stand upright.
+(Sie haut dir auf die Brüste.) Steh aufrecht.
+(She fondles your butt.) What a soft body.
+(Sie befummelt deinen Po.) Was für ein schön weicher Körper.
+(She fondles your breast.) What a soft body.
+(Sie befummelt deine Brust.) Was für ein schön weicher Körper.
+(She tickles your feet.) Tickle, tickle, tickle.
+(Sie kitzelt deine Füße.) Killekillekille.
+(She slaps your face.) Give it a rest!
+(Sie gibt dir eine Ohrfeige.) Gib endlich Ruhe!
+(She massages your neck.) A collar would look nice on you.
+(Sie massiert deinen Hals.) Ein Halsband würde dir sicher gut stehen.
+(She uses her crop.) This hurts me more than it hurts you!
+(Sie setzt ihre Gerte ein.) Das tut mir mehr weh als dir!
+You changed your clothes despite your mistress's ban. Therefore, you've been sent into a cell by other members.
+Du hast trotz des Verbots deiner Herrin deine Kleidung gewechselt. Daher wirst du von den Anderen in die Gefängniszelle gesperrt.

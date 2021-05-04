@@ -1,0 +1,178 @@
+Name:
+Name:
+Title:
+Titel:
+None
+Nichts
+Mistress
+Herrin
+Club Slave
+Clubsklavin
+Head Maid
+Hausdame
+Maid
+Hausmädchen
+Bondage Maid
+Bondage-Hausmädchen
+Master Kidnapper
+Meister Entführerin
+Kidnapper
+Entführerin
+Patient
+Patientin
+Permanent Patient
+Dauerhafte Patientin
+Escaped Patient
+Entlaufene Patientin
+Nurse
+Krankenschwester
+Doctor
+Doktor
+College Student
+College-Studentin
+Foal
+Fohlen
+Farm Horse
+Ackergaul
+Cold Blood Horse
+Kaltblutpferd
+Warm Blood Horse
+Warmblutpferd
+Hot Blood Horse
+Heißblutpferd
+Wild Mustang
+Wilder Mustang
+Shining Unicorn
+Glänzendes Einhorn
+Flying Pegasus
+Fliegender Pegasus
+Majestic Alicorn
+Majestätischer Alicorn
+Little One
+Kleine
+Diaper Lover
+Windel Liebhaber
+Duchess
+Herzogin
+Kitten
+Kätzchen
+Puppy
+Welpe
+Foxy
+Fuchs
+Bunny
+Häschen
+Doll
+Puppe
+Demon
+Dämonin
+Angel
+Engel
+Member Number:
+Mitgliedsnummer:
+-
+-
+Lover:
+Liebhaberin:
+Owner:
+Besitzerin:
+Money:
+Geld:
+Member for
+Mitglied seit
+Friends for
+Freunde seit
+On trial for
+Auf Probezeit seit
+Collared for
+Trägt Halsband seit
+day(s)
+Tag(en)
+Unknown
+Unbekannt
+- Reputation -
+- Rang -
+Dominant:
+Dominant:
+Submissive:
+Unterwürfig:
+Maid Sorority:
+Hausmädchen:
+Kidnappers League:
+Kidnapper-Liga:
+Asylum Nurse:
+Anstalts-Schwester:
+Asylum Patient:
+Anstalts-Patientin:
+Gambling Hall:
+Spielhalle:
+ABDL:
+ABDL:
+- Skills -
+- Skills -
+Bondage:
+Bondage:
+Evasion:
+Entfesselung:
+Willpower:
+Willenskraft:
+Dressage:
+Dressur:
+Global modifier:
+Globaler Modifikator:
+- Traits -
+- Merkmale -
+Spend more time with her to know her traits
+Verbringe mehr Zeit mit ihr, um sie besser kennenzulernen
+Violent:
+Brutal:
+Peaceful:
+Friedlich:
+Horny:
+Scharf:
+Frigid:
+Frigide:
+Rude:
+Unhöflich:
+Polite:
+Höflich:
+Wise:
+Weise:
+Dumb:
+Dumm:
+Serious:
+Ernst:
+Playful:
+Verspielt:
+Relation:
+Beziehung:
+(Perfect)
+(Perfekt)
+(Great)
+(Klasse)
+(Good)
+(Gut)
+(Fair)
+(In Ordnung)
+(Neutral)
+(Neutral)
+(Poor)
+(Dürftig)
+(Bad)
+(Schlecht)
+(Horrible)
+(Schrecklich)
+(Atrocious)
+(Entsetzlich)
+Item permission:
+Item-Berechtigung:
+Everyone, no exceptions
+Alle, ohne Ausnahme
+Everyone, except blacklist
+Alle, außer Blacklist
+Owner, Lover, whitelist & Dominants
+Besitzer, Whitelist & Dominante
+Owner, Lover and whitelist only
+Nur Besitzer und Whitelist
+Owner only
+Nur Besitzer

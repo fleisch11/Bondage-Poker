@@ -1,0 +1,18 @@
+﻿Lock timer: 
+Таймер блокировки: 
+minutes
+минут
+Leave the cell
+Покинь камеру
+Character profile
+Профиль персонажа
+Add 5 minutes
+Добавь 5 минут
+Remove 5 minutes
+Удалить 5 минут
+Lock yourself
+Запереться
+Opens in
+Открыть через
+Kneel / Stand
+На колени / Встать

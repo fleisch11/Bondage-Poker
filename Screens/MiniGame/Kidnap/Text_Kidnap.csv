@@ -1,0 +1,83 @@
+SelectMove,Select your move
+OpponentMove,Opponent moves
+BruteForce,Brute Force
+Domination,Domination
+Sneakiness,Sneakiness
+Meditation,Meditation
+Surrender,Surrender
+Passive,Passive
+Lost,lost
+Willpower,willpower
+NoLost,didn't lose any willpower
+UpperHand,has the upper hand
+UpperHandMove,Upper hand moves:
+SuddenDeath,Sudden Death
+Cancel,Cancel
+Wins,Wins
+Cloth,Remove her cloth
+ItemNeck,Use a collar item
+ItemFeet,Use a feet item
+ItemMouth,Use a gag item
+UndoCloth,Dress back up
+UndoItemNeck,Remove your collar
+UndoItemFeet,Release your legs
+UndoItemMouth,Remove your gag
+Mercy,Have mercy
+SelectItemToUse,Select the item to use on her
+UpperHandCloth,"(Using the upper hand, she forcefully removes your clothes.)"
+UpperHandItemNeck,(She produces a collar and force it around your neck.)
+UpperHandItemFeet,(She quickly uses her advantage to restrain your feet.)
+UpperHandItemMouth,(She uses her advantage to silence you with a gag.)
+UpperHandUndoCloth,(She uses her advantage on you to dress back up.)
+UpperHandUndoItemNeck,"(Using her advantage, she removes her collar.)"
+UpperHandUndoItemFeet,(She uses the opportunity to release her feet.)
+UpperHandUndoItemMouth,(She's able to remove her gag while she has the upper hand.)
+UpperHandMercy,(She looks at your current situation and gives you some mercy.)
+PlayerBruteForceOpponentBruteForceAction,"(You try to get a good grip on her, but she fights back and pushes you away.)"
+PlayerBruteForceOpponentBruteForcePlayer,"Fight for real, girl!"
+PlayerBruteForceOpponentBruteForceOpponent,Is that really the best you can do?
+PlayerBruteForceOpponentDominationAction,(She smirks and gives you a pompous look as you pinch her nipples and stun her with the pain.)
+PlayerBruteForceOpponentDominationPlayer,Learn to enjoy the pain.
+PlayerBruteForceOpponentDominationOpponent,Ow!  That really hurts.
+PlayerBruteForceOpponentSneakinessAction,(You charge her like a bull.  She dodges the charge and trips you onto the floor.)
+PlayerBruteForceOpponentSneakinessPlayer,That's how you fight bitch?
+PlayerBruteForceOpponentSneakinessOpponent,I hope you enjoyed your trip. Don't forget to send a postcard!
+PlayerBruteForceOpponentMeditationAction,"(She recovers as you knee kick her on the stomach, causing her to lose her breath.)"
+PlayerBruteForceOpponentMeditationPlayer,"You take a break, you suffer."
+PlayerBruteForceOpponentMeditationOpponent,(She catches her breath slowly.)
+PlayerDominationOpponentBruteForceAction,"(You smirk and point at the ground, but she grabs your arm and twists it.)"
+PlayerDominationOpponentBruteForcePlayer,Ouch!  Why don't you surrender?
+PlayerDominationOpponentBruteForceOpponent,You're feeling smart now?
+PlayerDominationOpponentDominationAction,"(You both argue on who should kneel for the other, but nobody gives in.)"
+PlayerDominationOpponentDominationPlayer,On your knees girl!
+PlayerDominationOpponentDominationOpponent,No!  You get on your knees!
+PlayerDominationOpponentSneakinessAction,"(She tries to tickle you, but get stunned by your presence and kneels for you.)"
+PlayerDominationOpponentSneakinessPlayer,This is your place: on your knees.
+PlayerDominationOpponentSneakinessOpponent,Well that trick did not work.
+PlayerDominationOpponentMeditationAction,"(She tries to relax, but get hypnotized and paralyzed by your glaring look.)"
+PlayerDominationOpponentMeditationPlayer,"Girl, you know you belong to me."
+PlayerDominationOpponentMeditationOpponent,(She nods slowly and meditates.)
+PlayerSneakinessOpponentBruteForceAction,"(She tries to punch you hard, but you grab her arm using judo and throw her on the floor.)"
+PlayerSneakinessOpponentBruteForcePlayer,You're so predictable.
+PlayerSneakinessOpponentBruteForceOpponent,Just you wait!
+PlayerSneakinessOpponentDominationAction,"(You try to make her trip, but she intimidates you with her menacing look.)"
+PlayerSneakinessOpponentDominationPlayer,(You tremble and try to look away.)
+PlayerSneakinessOpponentDominationOpponent,I'll never bow down for you.
+PlayerSneakinessOpponentSneakinessAction,"(You grab each other and try to make the other fall down, but you both tumble down to the ground.)"
+PlayerSneakinessOpponentSneakinessPlayer,"Ugly move, Bruce Lea."
+PlayerSneakinessOpponentSneakinessOpponent,"You suck, Jackie Shauna."
+PlayerSneakinessOpponentMeditationAction,"(You flash your sexy body at her, as she's trying to meditate.)"
+PlayerSneakinessOpponentMeditationPlayer,"You want this body, don't you?"
+PlayerSneakinessOpponentMeditationOpponent,Focus girl!  It's hard to focus.
+PlayerMeditationOpponentBruteForceAction,(You try to recover as she pulls your hair and gains the upper hand.)
+PlayerMeditationOpponentBruteForcePlayer,Unfair!  Can't I have a break?
+PlayerMeditationOpponentBruteForceOpponent,"If you can't focus, I will crush you."
+PlayerMeditationOpponentDominationAction,(She snaps her fingers and points at the ground.  You kneel and rest at the same time.)
+PlayerMeditationOpponentDominationPlayer,Yes Miss.  Of course Miss.
+PlayerMeditationOpponentDominationOpponent,"Good girl, soon you'll be my slave."
+PlayerMeditationOpponentSneakinessAction,(You meditate as she moves quickly behind you to tickle you.)
+PlayerMeditationOpponentSneakinessPlayer,Eeeeahahaha!  Let me relax!
+PlayerMeditationOpponentSneakinessOpponent,Laugh some more girl.
+PlayerMeditationOpponentMeditationAction,(You both take a short break to regain some strength and catch your breath.)
+PlayerMeditationOpponentMeditationPlayer,This is not over yet.
+PlayerMeditationOpponentMeditationOpponent,You're better than I thought.

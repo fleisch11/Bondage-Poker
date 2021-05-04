@@ -1,0 +1,184 @@
+﻿Name:
+Имя:
+Title:
+Титул:
+None
+Никто
+Mistress
+Госпожа
+Club Slave
+Клуб Рабов
+Head Maid
+Главная Горничная
+Maid
+Горничная
+Bondage Maid
+Бондаж Горничная
+Master Kidnapper
+Мастер-Похититель
+Kidnapper
+Похититель
+Patient
+Пациент
+Permanent Patient
+Постоянный Пациент
+Escaped Patient
+Сбежавший Пациент
+Nurse
+Медсестра
+Doctor
+Доктор
+College Student
+Студент Колледжа
+Foal
+Жеребенок
+Farm Horse
+Лошадиная Ферма
+Cold Blood Horse
+Хладнокровная Лошадь
+Warm Blood Horse
+Обычная Лошадь
+Hot Blood Horse
+Горячая Лошадь 
+Wild Mustang
+Дикий Мустанг
+Shining Unicorn
+Сияющий Единорог
+Flying Pegasus
+Летающий Пегас
+Majestic Alicorn
+Величественный Аликорн
+Little One
+малыш
+Baby
+Младенец
+Diaper Lover
+Любитель Подгузников
+Bondage Baby
+Связывание Ребенка
+Duchess
+Герцогиня
+Kitten
+Котёнок
+Puppy
+Щенок
+Foxy
+Лисий
+Bunny
+Кролик
+Doll
+Кукла
+Demon
+Демон
+Angel
+Ангел
+Succubus
+Суккуб
+Member Number:
+Номер Участника:
+-
+-
+Lover:
+Возлюбленная:
+Owner:
+Хозяйка:
+Money:
+Деньги:
+Member for
+Член в течении
+Friends for
+Друзья для
+On trial for
+На суде за
+Collared for
+Ошейник для
+day(s)
+дн.
+Unknown
+Неизвестная
+- Reputation -
+- Репутация -
+Dominant:
+Доминирующая:
+Submissive:
+Покорная:
+Maid Sorority:
+Горничная:
+Kidnappers League:
+Лига Похитителей :
+Asylum Nurse:
+Медсестра Психушки:
+Asylum Patient:
+Пациентка Психушки:
+Gambling Hall:
+Игорный зал:
+ABDL:
+Погузники:
+- Skills -
+- Навыки -
+Bondage:
+Бондаж:
+Evasion:
+Побег:
+Willpower:
+Сила воли:
+Dressage:
+Выездка:
+Global modifier:
+Модификатор:
+- Traits -
+- Черты -
+Spend more time with her to know her traits
+Проводите с ней больше времени, чтобы узнать ее черты
+Violent:
+Жестокая:
+Peaceful:
+Тихая:
+Horny:
+Похотливая:
+Frigid:
+Фригидная:
+Rude:
+Грубый:
+Polite:
+Вежливая:
+Wise:
+Мудрая:
+Dumb:
+Тупая:
+Serious:
+Серьезная:
+Playful:
+Игривая:
+Relation:
+Отношение:
+(Perfect)
+(Идеальное)
+(Great)
+(Отличное)
+(Good)
+(Хорошие)
+(Fair)
+(Честное)
+(Neutral)
+(Нейтральное)
+(Poor)
+(Жалкое)
+(Bad)
+(Плохое)
+(Horrible)
+(Ужасное)
+(Atrocious)
+(Жестокое)
+Item permission:
+Разрешены элементы:
+Everyone, no exceptions
+Все, без исключений
+Everyone, except blacklist
+Все, кроме черного списка
+Owner, Lover, whitelist & Dominants
+Владелеца, белый список и Доминанты
+Owner, Lover and whitelist only
+Владелеца и только белый список
+Owner only
+Только владелеца

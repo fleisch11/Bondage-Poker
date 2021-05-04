@@ -1,0 +1,242 @@
+﻿Name:
+Nom:
+Title:
+Titre:
+None
+Aucun
+Mistress
+Maîtresse
+Club Slave
+Esclave du Club
+Head Maid
+Maîtresse Servante
+Maid
+Servante
+Bondage Maid
+Servante de Bondage
+Master Kidnapper
+Ace du Kidnapping
+Kidnapper
+Kidnappeuse
+Patient
+Patiente
+Permanent Patient
+Patiente permanente
+Escaped Patient
+Patiente évadée
+Nurse
+Infirmière
+Doctor
+Médecin
+College Student
+Étudiante
+Foal
+Poulain
+Farm Horse
+Cheval de Ferme
+Cold Blood Horse
+Cheval à Sang-froid
+Warm Blood Horse
+Cheval à Sang-tiède
+Hot Blood Horse
+Cheval à Sang-chaud
+Wild Mustang
+Mustang Sauvage
+Shining Unicorn
+Licorne Scintillante
+Flying Pegasus
+Pégase Volant
+Lady Luck
+Dame Chance
+Patron
+Patronne
+Majestic Alicorn
+Alicorne Majestieuse
+Little One
+Petiotte
+Baby
+Bébé
+Diaper Lover
+Porteur de Couche
+Bondage Baby
+Bébé attaché
+Duchess
+Duchesse
+Kitten
+Chaton
+Puppy
+Chiot
+Foxy
+Renarde
+Bunny
+Lapine
+Doll
+Poupée
+Demon
+Démon
+Angel
+Ange
+Succubus
+Succube
+Member Number:
+Numéro de Membre:
+-
+-
+Lover:
+Amante:
+Owner:
+Patronne:
+Money:
+Monnaie:
+Member for
+Membre depuis
+Friends for
+Amies depuis
+On trial for
+Période d'essai pour
+Collared for
+Collier permanant depuis
+day(s)
+jour(s)
+Unknown
+Inconnu
+- Reputation -
+- Réputation -
+Dominant:
+Dominante:
+Submissive:
+Soumise:
+Maid Sorority:
+Sororité des Servantes:
+Gambling Hall:
+Jeux de Hasard:
+Kidnappers League:
+Ligue des Kidnappeurs:
+ABDL:
+ABDL:
+- Skills -
+- Compétences -
+Bondage:
+Bondage:
+Evasion:
+Évasion:
+Willpower:
+Volonté:
+Dressage:
+Dressage:
+- Traits -
+- Caractéristiques -
+Spend more time with her to know her traits
+Passez plus de temps avec elle pour connaître ses caractéristiques
+Violent:
+Violente:
+Peaceful:
+Paisible:
+Horny:
+Chaude:
+Frigid:
+Froide:
+Rude:
+Grossière:
+Polite:
+Polie:
+Wise:
+Sage:
+Dumb:
+Stupide:
+Serious:
+Serieuse:
+Playful:
+Espiègle:
+Relation:
+Relation:
+(Perfect)
+(Parfaite)
+(Great)
+(Géniale)
+(Good)
+(Bonne)
+(Fair)
+(Bien)
+(Neutral)
+(Neutre)
+(Poor)
+(Faible)
+(Bad)
+(Mauvaise)
+(Horrible)
+(Horrible)
+(Atrocious)
+(Atroce)
+Everyone, no exceptions
+Tous, sans exceptions
+Everyone, except blacklist
+Tous, sauf liste noire
+Owner only
+Patronne seulement
+Club Slave
+Esclave du Club
+Patient
+Patiente
+Permanent Patient
+Patiente permanente
+Escaped Patient
+Patiente évadée
+Nurse
+Infirmière
+Doctor
+Médecin
+College Student
+Étudiante
+Asylum Nurse:
+Infirmière d'asile:
+Asylum Patient:
+Patient d'asile:
+Skills modifier:
+Modificateur de compétences:
+Time left:
+Temps restant:
+Lady Luck
+Dame Chance
+Nawashi
+Nawashi
+Houdini
+Houdini
+Patron
+Patronne
+- Relationships -
+- Relations -
+Lover for
+Amante depuis
+Dating for
+Sort ensemble depuis
+Engaged for
+Fiancée depuis
+Married for
+Marriée depuis
+LARP Battles:
+Batailles LARP:
+LARP Class:
+Classe LARP:
+Matron
+Matrone
+Seducer
+Séductrice
+Trickster
+Escroc
+Servant
+Servante
+Artist
+Artiste
+Protector
+Protectrice
+Self-bondage:
+Self-bondage:
+Permission:
+Permission:
+Owner, Lovers, whitelist & Dominants
+Patronne, amantes, liste blanche & Maîtresses
+Owner, Lovers and whitelist only
+Patronne, amantes et liste blanche seulement
+Owner and Lovers only
+Patronne et amantes seulement

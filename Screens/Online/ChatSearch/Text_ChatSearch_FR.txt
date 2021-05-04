@@ -1,0 +1,36 @@
+No chat room found.  You can create a new one.
+Aucun salon trouvé. Vous pouvez en créer un.
+Search for a room by name:
+Recherche de salon par nom:
+Search for a room
+Rechercher un salon
+Create your room
+Créer votre salon
+Friends in room:
+Amies dans le salon:
+This room is already full
+Ce salon est déjà plein
+This room is locked
+Ce salon est barré
+You're banned from this room
+Vous avez été banni de ce salon
+You've been kicked out
+Vous avez été jeté dehors
+Room doesn't exist anymore
+Ce salon n'existe plus
+Account Error
+Erreur de Compte
+Invalid Room Data
+Données Invalides
+Entering the room...
+Vous entrez dans le salon...
+Filter Rooms
+Mode filtre
+Return to room view
+Retourner à la vue des salles
+Leave room search
+Revenir en arrière
+Friends
+Liste d'amies
+Next page
+Prochaine page

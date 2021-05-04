@@ -1,0 +1,139 @@
+ItemSold,,,"Well done, another satisfied customer.  Here's your commission.  (She gives you MoneyAmount$.)",,
+ItemNotSold,,,"Too bad, the customer left.",,
+PlayerGagged,,,This is the only store in town that receives gagged customers.,,
+ItemMouth,,,(She shakes her head no but you're able to gag and silence her.),,
+RemoveItemMouth,,,"(You remove her gag and she thanks you.)  Thanks a lot, my job requires me to speak.",,
+ItemEars,,,(You push some earplugs into place.) How am i going to hear the customers now?.,,
+RemoveItemEars,,,(You pull the earplugs out.) Thank you i can hear you clearly again.,,
+ItemArms,,,(She grumbles but complies as you restrain her arms.)  What about the store?,,
+RemoveItemArms,,,(You free her arms and she gives you a thumbs up.)  The club thanks you Miss.,,
+ItemHands,,,(She grumbles a little but soon complies as you start restraining her hands.)  What about the store Miss?,,
+RemoveItemHands,,,(You release her hands.)  The club thanks you Miss,,
+ItemLegs,,,(She looks down as you restrain her legs securely.)  I'm not going out anyway.,,
+RemoveItemLegs,,,(You release her legs and she nods.)  Don't you want to buy something?,,
+ItemFeet,,,(She giggles as you restrain her feet.)  That's why they call it a fixed job.,,
+RemoveItemFeet,,,(You release her feet and she stretches them.)  I have the best customers in town.,,
+ItemNeck,,,(She struggles as you strap the collar around her neck.)  I'm not looking for an owner.,,
+RemoveItemNeck,,,(You remove the collar from her neck.)  Yes!  This is much better.,,
+ItemPelvis,,,(You snap the belt around her waist while she sighs.)  Damn it.  I can't sell anymore keys for these.,,
+RemoveItemPelvis,,,"(You unlock the belt from her waist, and she smiles.)  I owe you one.",,
+ItemHead,,,(You strap the device on her head as she complains.)  The store!  Think about the store!,,
+RemoveItemHead,,,(You remove the device and she looks relived.)  Thanks.  Nothing was stolen?,,
+ItemBreastLeatherWhip,,,(She whimpers as you whip her breast.)  Ouch!  You're whipping too hard.,,
+ItemBreastLeatherCrop,,,(You swing the crop on her torso as she grumbles.)  That's what they call trying the merchandise.,,
+ItemPelvisLeatherWhip,,,(You whip her butt as she whimpers.)  Oooww.  Are you a satisfied customer?,,
+ItemPelvisLeatherCrop,,,(You lash the leather crop pretty hard on her butt.)  Damn it!  I need a better job.,,
+0,,,Greetings Mistress DialogPlayerName.  What are you looking for today?,,"DialogLogQuery(""ClubMistress"", ""Management"")"
+0,,,(She looks at you and giggles.)  Are you looking for some clothes?,,Player.IsNaked()
+0,,,Welcome to the Bondage Club store.  How can I help you today?,,
+0,90,I'd like to buy something.,Of course! What are you looking for?,SetBuyMode(),
+0,90,I want to return something I bought.,"Sure! You can sell back anything for half of the original price. What kind of item is it?",SetSellMode(),
+0,,Can you show me everything that I don't have?,,SelectAssetMissing(),
+0,,What are you selling?,"Look around, there are clothes of all kinds and lots of BDSM gear.",,
+0,,Who owns this store?,It belongs to the Bondage Club.  All profits go back to the organization.,,
+0,20,Can I tie you up?,"I'll make a deal with you.  If you buy everything from the store, I'll let you use the items on me.",CheckBoughtEverything(),!VendorAllowItem
+0,,Can you help me out?,I'm not allowed to release you.  But I can help you to shop and pay.  I will be honest.,,!Player.CanInteract()
+0,30,Do you have work for me?,"Sure, I can give you a salary if you're willing to demonstrate the items we are selling.  Are you ready for that?",,Player.CanInteract()
+0,,I need to run.  (Leave her.),,DialogLeave(),
+20,0,Check my items.  I've bought everything.,No way!  Well a deal is a deal.  You can strap me up if you want.,VendorBondage(),BoughtEverything
+20,0,I'll remember that deal.,Sure!  Do you have more questions for me?,,
+30,,What's the job?,Selling gears.  Customers wants to know if the items are secure and good looking.  You could demonstrate for them.,,
+30,,How much does it pay?,"I can give you 10% of the selling price, minimum 5$, for each item you help me to sell.  It's a good commission.",,
+30,31,I'm ready!,"Very well, let me find an item to promote.  (She checks on the shelves for an item to use on you.)",,!Player.IsRestrained()
+30,,I'm ready!,No you're not.  (She giggles.)  Get out of these restraints first.,,Player.IsRestrained()
+30,0,Not right now.,"Alright, let me know when you're ready.  Is there anything else you need?",,
+31,32,(Let her restrain you.),(She uses an item on you and smiles.)  You can wait for a customer right there.,JobRestrain(),
+31,0,Wait!  I've changed my mind.,"Alright, let me know when you're ready.  Is there anything else you need?",,
+32,33,(Wait for a customer.),,JobStart(),
+33,0,Thanks a lot!,My pleasure.  Is there anything else you need?,,
+33,0,(Nod happily.),My pleasure.  Is there anything else you need?,,
+33,,Can I do it again?,(She giggles.)  You'll need to get out of those restraints before you can try again!,,!JobCanGoAgain()
+33,31,Can I do it again?,Sure!  Let me find an item to promote.  (She checks on the shelves for an item to use on you.),,JobCanGoAgain()
+33,,Can you help me out?,"I don't have time, there's too many customers.  Go find a maid if you can't struggle out.",DialogRemove(),!Player.CanInteract()
+34,0,I'm not a great saleswoman.,Don't worry about it.  Is there anything else you need?,,
+34,0,(Nod very slowly.),Don't worry about it.  Is there anything else you need?,,
+34,,Can I try again?,  I'm afraid you'll need to get out of those restraints before you can try again,,!JobCanGoAgain()
+34,31,Can I try again?,Alright.  Let me find an item to promote.  (She checks on the shelves for an item to use on you.),,JobCanGoAgain()
+34,,Can you help me out?,"I don't have time, there's too many customers.  Go find a maid if you can't struggle out.",DialogRemove(),!Player.CanInteract()
+90,100,Clothes and accessories.,"What kind of clothes?",,CanShow(Cloth|ClothAccessory|Suit|ClothLower|Hat|Glasses|Mask|Necklace|Gloves|Shoes|Corset)
+90,110,Underwear.,"What kind of underwear?",,CanShow(Bra|Panties|Socks)
+90,120,Exotic accessories.,"What kind of accessories?",,CanShow(Wings|TailStraps|HairAccessory1|ItemDevices|ItemAddon)
+90,200,Something for the head.,For which body part exactly?,,CanShow(ItemHead|ItemEars|ItemMouth|ItemNeck|ItemNeckAccessories|ItemNeckRestraints|ItemHood|ItemNose|ItemMisc)
+90,210,Something for the body or arms.,For which body part exactly?,,CanShow(ItemArms|ItemHands|ItemBreast|ItemNipples|ItemNipplesPiercings|ItemTorso|ItemPelvis)
+90,220,Something for private parts or legs.,For which body part exactly?,,CanShow(ItemPelvis|ItemVulva|ItemVulvaPiercings|ItemButt|ItemLegs|ItemFeet|ItemBoots)
+90,0,I've changed my mind.,Can I help you with anything else?,,
+100,,Regular clothes or outfits.,,Start(Cloth),CanShow(Cloth)
+100,,Accesories to go with clothes.,,Start(ClothAccessory),CanShow(ClothAccessory)
+100,,Suits.,,Start(Suit),CanShow(Suit)
+100,,Pants or skirts.,,Start(ClothLower),CanShow(ClothLower)
+100,,Hats or head accessories.,,Start(Hat),CanShow(Hat)
+100,,Glasses.,,Start(Glasses),CanShow(Glasses)
+100,101,It's another type of clothes.,What kind is it?,,CanShow(Mask|Necklace|Gloves|Shoes|Corset)
+100,90,What else do you have?,We have many items available.,,BuyMode
+100,90,Actually it's something else.,What kind of item is it?,,!BuyMode
+101,,Masks.,,Start(Mask),CanShow(Mask)
+101,,Necklaces.,,Start(Necklace),CanShow(Necklace)
+101,,Gloves.,,Start(Gloves),CanShow(Gloves)
+101,,Shoes.,,Start(Shoes),CanShow(Shoes)
+101,,Corsets.,,Start(Corset),CanShow(Corset)
+101,100,It's another type of clothes.,What kind is it?,,
+101,90,What else do you have?,We have many items available.,,BuyMode
+101,90,Actually it's something else.,What kind of item is it?,,!BuyMode
+110,,Bras.,,Start(Bra),CanShow(Bra)
+110,,Panties.,,Start(Panties),CanShow(Panties)
+110,,Socks.,,Start(Socks),CanShow(Socks)
+110,90,What else do you have?,We have many items available.,,BuyMode
+110,90,Actually it's something else.,What kind of item is it?,,!BuyMode
+120,,Outfits or accessories for the body.,,Start(Wings),CanShow(Wings)
+120,,Tail straps.,,Start(TailStraps),CanShow(TailStraps)
+120,,Hair accessories.,,Start(HairAccessory1),CanShow(HairAccessory1)
+120,,Special bondage devices.,,Start(ItemDevices),CanShow(ItemDevices)
+120,,Addons for special bondage devices.,,Start(ItemAddon),CanShow(ItemAddon)
+120,90,What else do you have?,We have many items available.,,BuyMode
+120,90,Actually it's something else.,What kind of item is it?,,!BuyMode
+200,,Blindfolds.,,Start(ItemHead),CanShow(ItemHead)
+200,,Earplugs.,,Start(ItemEars),CanShow(ItemEars)
+200,,Gags.,,Start(ItemMouth),CanShow(ItemMouth)
+200,,Collars.,,Start(ItemNeck),CanShow(ItemNeck)
+200,,Accessories for collars.,,Start(ItemNeckAccessories),CanShow(ItemNeckAccessories)
+200,,Restraints to go on collars.,,Start(ItemNeckRestraints),CanShow(ItemNeckRestraints)
+200,201,It's another type of head item.,What sort is it?,,CanShow(ItemHood|ItemNose|ItemMisc)
+200,90,What else do you have?,We have many items available.,,BuyMode
+200,90,Actually it's something else.,What kind of item is it?,,!BuyMode
+201,,Hoods.,,Start(ItemHood),CanShow(ItemHood)
+201,,Items for the nose.,,Start(ItemNose),CanShow(ItemNose)
+201,,Locks and keys.,,Start(ItemMisc),CanShow(ItemMisc)
+201,200,It's another type of head item.,What sort is it?,,
+201,90,What else do you have?,We have many items available.,,BuyMode
+201,90,Actually it's something else.,What kind of item is it?,,!BuyMode
+210,,Arm restraints.,,Start(ItemArms),CanShow(ItemArms)
+210,,Hand restraints.,,Start(ItemHands),CanShow(ItemHands)
+210,,Items for breasts.,,Start(ItemBreast),CanShow(ItemBreast)
+210,,Toys for the nipples.,,Start(ItemNipples),CanShow(ItemNipples)
+210,,Items to decorate the nipples.,,Start(ItemNipplesPiercings),CanShow(ItemNipplesPiercings)
+210,,Harnesses for the torso.,,Start(ItemTorso),CanShow(ItemTorso)
+210,,Chastity belts.,,Start(ItemPelvis),CanShow(ItemPelvis)
+210,90,What else do you have?,We have many items available.,,BuyMode
+210,90,Actually it's something else.,What kind of item is it?,,!BuyMode
+220,,Chastity belts.,,Start(ItemPelvis),CanShow(ItemPelvis)
+220,,Kinky items for the kinky region.,,Start(ItemVulva),CanShow(ItemVulva)
+220,,Piercings for down below.,,Start(ItemVulvaPiercings),CanShow(ItemVulvaPiercings)
+220,,Something to be used on the butt.,,Start(ItemButt),CanShow(ItemButt)
+220,,Something to restrain the legs.,,Start(ItemLegs),CanShow(ItemLegs)
+220,,Something for the feet.,,Start(ItemFeet),CanShow(ItemFeet)
+220,,Boots.,,Start(ItemBoots),CanShow(ItemBoots)
+220,90,What else do you have?,We have many items available.,,BuyMode
+220,90,Actually it's something else.,What kind of item is it?,,!BuyMode
+MaidRescue,,,(She struggles in her restraints.)  Help!,,IsVendorRestrained()
+MaidRescue,,,"(She gives you a thumbs up.)  Everything is back to normal, thanks to you and the sorority.",,!IsVendorRestrained()
+MaidRescue,,Do you need help?,"(She nods quickly.)  Yes, yes, yes!  Please help.",,IsVendorRestrained()
+MaidRescue,,Anything was stolen?,(She shrugs.)  I sure hope not.,,
+MaidRescue,MaidRescueComplete,Is everything alright now?,You've took care of everything.  Please send my regards to the maids of the sorority.,CompleteRescue(),!IsVendorRestrained()
+MaidRescue,,What happened here?,"I've made a deal with a client that if she bought everything, she could use the items on me.  So, she did just that.",,"IsRescueScenario(""BoughtEverything"")"
+MaidRescue,,What happened here?,A burglar surprised and restrained me.  The maids caught her and dragged her away.  I guess they sent you to help me.,,"IsRescueScenario(""CatBurglar"")"
+MaidRescue,,What happened here?,I was bored and wanted to try a few items.  I think I got a little carried away.,,"IsRescueScenario(""BoredVendor"")"
+MaidRescue,,What happened here?,There wasn't any customer and I fell asleep.  The Head Mistress caught me and restrained me like that until she called the maids.,,"IsRescueScenario(""SleepingAtWork"")"
+MaidRescue,,I'll go get help.  (Leave her.),,DialogLeave(),
+MaidRescueComplete,0,I'm glad to be of service Miss.,You maids are so sweet.  Would you like to buy something?,"DialogChangeReputation(""Dominant"", -2)",
+MaidRescueComplete,0,Will you give me a discount?,"Nice try, but I can't do that.  The sorority will pay you for your work though.  Would you like to buy something?",,
+MaidRescueComplete,0,The sorority will always protect you.,It's great to feel protected.  Would you like to buy something?,"DialogChangeReputation(""Dominant"", 2)",

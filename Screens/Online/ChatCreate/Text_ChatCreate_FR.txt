@@ -1,0 +1,117 @@
+###Interface
+Enter your room information
+Entrez l'information de votre salon
+Room Name (Letters & numbers only)
+Nom du Salon (Lettres & chiffres seulement)
+A short description or what's going on
+Une courte description du salon
+Private (Need exact name to find it)
+Privé (Nom exact nécéssaire pour le retrouver)
+Select the background
+Choisir le style
+Room maximum size, from 2 to 10 members
+Nombre de membres permis, de 2 à 10
+Create
+Créer
+Cancel
+Annuler
+Creating your room...
+Creation en cours...
+This room name is already taken
+Ce nom est déjà pris
+Account error, try to relog
+Erreur de compte, reconnectez
+Invalid room data
+Données invalides de compte
+Room created, joining it...
+Salon créé, vous vous y rendez...
+Selection
+Sélection
+Introduction
+Introduction
+Kidnappers League
+Ligue des Kidnappeurs
+Maid Quarters
+Quartiers des Servantes
+Main Hall
+Hall Principal
+Club Management
+Direction du Club
+Private Room
+Chambre Privée
+Shibari Dojo
+Dojo de Shibari
+Bedroom
+Chambre
+Horse Stable
+Écurie
+Nursery
+Garderie
+Prison Hall
+Couloir de prison
+BDSM Room Blue
+Chambre BDSM Bleue
+BDSM Room Purple
+Chambre BDSM Violette
+BDSM Room Red
+Chambre BDSM Rouge
+Gardens
+Jardins
+Indoor Pool
+Piscine Intérieure
+Outdoor Pool
+Piscine Extérieure
+Maid Café
+Café des Servantes
+Public Bath
+Bain Public
+Park Day
+Parc Jour
+Park Night
+Parc Nuit
+Chill Room
+Salle de détente
+Boudoir
+Boudoir
+Bondage Bedchamber
+Chambre Bondage
+Beach
+Plage
+Forest Path
+Chemin Forestier
+Deep Forest
+Forêt Profonde
+Spooky Forest
+Forêt Sombre
+Abandoned Building
+Bâtiment Abandonné
+Balcony Night
+Balcon Nuit
+Cozy Living Room
+Salon Confortable
+Rooftop Party
+Fête sur le Toit
+Cosy Chalet
+Chalet Confortable
+Park Winter
+Parc Hiver
+Xmas Eve Lounge
+Salon de la Veille de Noël
+Xmas Day Lounge
+Salon de Noël
+Street Night
+Rue Soir
+Snowy Street
+Rue Enneigée
+Entrance
+Entrée
+Bedroom
+Chambre
+Meeting
+Rencontre
+Therapy
+Thérapie
+Padded Cell
+Cellule Capitonnée
+Padded Cell 2
+Cellule Capitonnée 2

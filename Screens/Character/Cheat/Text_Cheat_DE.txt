@@ -1,0 +1,16 @@
+Gain reputation at double the rate
+Doppelt so schnell an Rang gewinnen
+Gain skills at double the rate
+Skills doppelt so schnell erlernen
+Gain double amount of money
+Doppelte Menge Geld erhalten
+Speed up the time to use any item
+Das Benutzen von Items beschleunigen
+Prevent random kidnappings
+Zufalls-Kidnapper verhindern
+Skip the D/s trial periods
+D/s-Probezeiten überspringen
+Automatically show NPC traits
+NPC-Merkmale automatisch anzeigen
+No love decay for NPC over time
+NPC-Zuneigung nicht verfallen lassen

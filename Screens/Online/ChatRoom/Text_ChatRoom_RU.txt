@@ -1,0 +1,6 @@
+﻿(Two maids grab you and escort you to their quarters.  Another maid addresses you.)  Your owner sent you here to work.
+(Две служанки хватают тебя и провожают в свои покои.  К тебе обращается другая горничная)  Твоя хозяйка послал тебя сюда работать.
+Talk to everyone
+Обсуждение для всех
+Whisper to
+Шепот в

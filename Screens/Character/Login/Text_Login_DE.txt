@@ -1,0 +1,50 @@
+﻿Welcome to the Bondage Club
+Willkommen im Bondage-Club
+Enter your name and password
+Gib deinen Namen und dein Passwort ein
+Account Name
+Account-Name
+Password
+Passwort
+Login
+Anmelden
+Language
+Sprache
+Or create a new character
+Oder erstelle einen neuen Charakter
+New Character
+Neuer Charakter
+Connecting to server...
+Verbindung zum Server...
+Error loading character data
+Fehler beim Laden der Charakter-Daten
+Disconnected from server. Retrying...
+Nicht mit dem Server verbunden. Vorgang wird wiederholt...
+Disconnected for duplicated login
+Verbindung für Doppel-Login abgebrochen
+Unable to connect to server. Retrying...
+Verbindung zum Server konnte nicht hergestellt werden.
+Validating name and password...
+Name und Passwort werden überprüft...
+Incorrect name or password
+Name oder Passwort fehlerhaft
+Error:
+Fehler:
+Invalid name or password
+Name oder Passwort ungültig
+Select Cheats
+Cheats auswählen
+Reset Password
+Passwort vergessen?
+Thank you
+Danke
+Developers
+Entwickler
+Translators
+Übersetzer
+Support
+Unterstützer
+Sponsors
+Sponsoren
+And a huge thanks to the fans!
+Und ein großes Danke an die Fans!

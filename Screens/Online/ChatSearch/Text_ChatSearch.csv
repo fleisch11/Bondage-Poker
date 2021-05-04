@@ -1,0 +1,26 @@
+NoChatRoomFound,No chat room found.  You can create a new one.
+EnterName,Search for a room by name:
+"SearchRoom	",Search for a room
+"CreateRoom	",Create your room
+FriendsInRoom,Friends in room:
+ResponseRoomFull,This room is already full
+ResponseRoomLocked,This room is locked
+ResponseRoomBanned,You're banned from this room
+ResponseRoomKicked,You've been kicked out
+ResponseCannotFindRoom,Room doesn't exist anymore
+ResponseAccountError,Account Error
+ResponseInvalidRoomData,Invalid Room Data
+ResponseJoinedRoom,Entering the room...
+FilterMode,Filter Rooms
+NormalMode,Return to room view
+Exit,Leave room search
+FriendList,Friends
+Next,Next page
+Block,Block:
+ABDL,ABDL
+Leashing,Player Leashing
+SciFi,Sci-Fi
+Photos,Photographs
+Arousal,Arousal Activities
+GameLabel,Game:
+GameLARP,LARP
